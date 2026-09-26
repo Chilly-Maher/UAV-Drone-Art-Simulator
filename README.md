@@ -1,5 +1,3 @@
-<img width="3492" height="4656" alt="IMG_0859" src="https://github.com/user-attachments/assets/d434cdf0-338e-442e-9852-8d6cd49638ef" /># UAV-Drone-Art-Simulator
-
 Steps to use:
 1. Place desired files inside input folder, located in drone_art/input.
 The usable static files are:

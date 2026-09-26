@@ -15,7 +15,7 @@ The usable video files are:
 
 These work about how you would expect.
 
-2. Run main.py
+2. Run main.py. If you do not have all the packages installed already, type this into the terminal: pip install pillow imageio imageio-ffmpeg av numpy
    
 3. Open the output folder, located in drone_art/output
 Here you will find each individual frame printed out as "filename_drone.jpg", as well as animation.gif and symbol_stream.csv.

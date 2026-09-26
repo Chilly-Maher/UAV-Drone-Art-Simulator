@@ -4,6 +4,7 @@ The usable static files are:
   - .png
   - .jpg
   - .jpeg
+
 For the static files you will want to input your images frame by frame (ie each image is one frame).
 The usable video files are:
   - .mp4
@@ -11,6 +12,7 @@ The usable video files are:
   - -m4v
   - .avi
   - .mkv
+
 These work about how you would expect.
 
 2. Run main.py
